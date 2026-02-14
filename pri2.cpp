@@ -9,5 +9,4 @@ int main(){
         fact*=i;
     }  
     cout<<"factorial of " << n << " is " <<fact;
-    return 0;
 }
