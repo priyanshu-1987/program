@@ -3,7 +3,7 @@
 using namespace std;
 int main(){
     string fullname;
-    cout<<"enter your full name:";
+    cout<<"enter your full name:"; //enter name without space
     cin>>fullname;
     cout<<"your full name is:"<<fullname;
     cout<<endl;
